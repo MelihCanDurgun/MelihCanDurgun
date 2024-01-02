@@ -65,17 +65,14 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 <table border="0" align="center">
    <tr border="0">     
      <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MelihCanDurgun&amp;theme=react&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
-<br>
-</br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MelihCanDurgun&theme=react&hide_border=true">
- <br/>
-  </td>  
-  <td width="50%" align="center">
-<img  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MelihCanDurgun&theme=react&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-  </td>
+<img src="https://github-readme-stats.vercel.app/api?username=MelihCanDurgun&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+     </td>    
+    <td width="50%" align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihCanDurgun&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+    </td>
     </tr>
   </table>
+
   
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
@@ -89,16 +86,3 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 
-<table border="0" align="center">
-   <tr border="0">     
-     <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MelihCanDurgun&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-       
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MelihCanDurgun&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-    <br/>
-  </td>    
-    <td width="50%" align="center">
- <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihCanDurgun&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-    </td>
-    </tr>
-  </table>
