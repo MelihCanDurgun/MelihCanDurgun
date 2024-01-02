@@ -74,7 +74,7 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
   
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-  <img alt="Melih's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MelihCanDurgun&theme=merko&hide_border=true" />
+  <img alt="Melih's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MelihCanDurgun&theme=github-compact&hide_border=true" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <p align="center">
