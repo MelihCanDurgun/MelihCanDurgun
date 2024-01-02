@@ -1,5 +1,7 @@
 ## Melih Can Durgun 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+![melihcandurgun](https://github.com/MelihCanDurgun/MelihCanDurgun/assets/150528824/66754c46-f854-4429-9b52-54eb33deb63f)
+
 <div>
   I'm a Junior .Net Developer with a passion for music and exploring new places. I believe in continuous self-improvement and strive to enhance my skills in the field of software development. <br/><br/>
   
@@ -30,7 +32,7 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
   <a href="https://www.instagram.com/melihdrgn/" alt="melihdurgun">
-  <img src="https://img.shields.io/badge/-Instagram-orange?style=flat-square&labelColor=purple&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-orange?style=flat-square&labelColor=orange&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 <a href="https://discordapp.com/users/776749637826117640" alt="#4063">
   <img src="https://img.shields.io/badge/-Discord-black?style=flat-square&labelColor=black&logo=discord&logoColor=white&link=LINK-DO-SEU-DISCORD"/>
   </a>
