@@ -63,7 +63,7 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 <table border="0" align="center">
    <tr border="0">     
      <td width="50%" align="center">
-       <img height="137px" src="https://github-readme-stats.vercel.app/api?username=MelihCanDurgun&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+       <img height="137px" src="https://github-readme-stats.vercel.app/api?username=MelihCanDurgun&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
         <img src="http://github-readme-streak-stats.herokuapp.com?user=MirayDurgun&theme=algolia&background=0d1117&hide_border=true" />
        </td>  
   <td width="50%" align="center">
