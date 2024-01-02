@@ -62,16 +62,9 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 <h3> <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/cdd97b63-48d2-4c8e-85d0-6406a56704bb" width="25" height="25">   GitHub Stats:</h3>
 
 
-<table border="0" align="center">
-   <tr border="0">     
-     <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MelihCanDurgun&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-     </td>    
-    <td width="50%" align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihCanDurgun&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-    </td>
-    </tr>
-  </table>
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=MelihCanDurgun&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+ <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihCanDurgun&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+
 
   
   
