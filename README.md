@@ -73,7 +73,7 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
   </table>
   
   
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-52fa5a.gif"> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5cx.gif"> 
   <img alt="Melih's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MelihCanDurgun&theme=merko&hide_border=true" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
@@ -81,6 +81,6 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 <a href="https://github.com/Anmol-Baranwal">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=45&lines=Full-stack+Web+Developer;Experienced+UI+Designer;Enjoy+learning+Algorithms;Building+Something+Creative" /></a>
 </p>
- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
