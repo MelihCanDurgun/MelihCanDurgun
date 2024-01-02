@@ -1,5 +1,5 @@
 ## Melih Can Durgun 
-<img src="https://github.com/MelihCanDurgun/MelihCanDurgun/assets/150528824/6f720eda-6010-4c26-9b59-e7e9f9f83e44" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/MelihCanDurgun/MelihCanDurgun/assets/150528824/ab465c33-518c-4354-86fd-9bb09b918e3a" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <div>
   I'm a Junior .Net Developer with a passion for music and exploring new places. I believe in continuous self-improvement and strive to enhance my skills in the field of software development. <br/><br/>
   
