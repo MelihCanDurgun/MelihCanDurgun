@@ -1,4 +1,5 @@
 ## Melih Can Durgun 
+[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.MelihCanDurgun.com/)
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <div>
   I'm a Junior .Net Developer with a passion for music and exploring new places. I believe in continuous self-improvement and strive to enhance my skills in the field of software development. <br/><br/>
