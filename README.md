@@ -4,11 +4,7 @@
   I'm a Junior .Net Developer with a passion for music and exploring new places. I believe in continuous self-improvement and strive to enhance my skills in the field of software development. <br/><br/>
   
   [![](https://visitcount.itsvg.in/api?id=MElihCanDurgun&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
-## <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/ede9c619-e076-4c35-abca-d36c0098c4e0" width="25" height="25">     Music Enthusiast
-
-Music is my ultimate source of inspiration and relaxation. Whenever I'm not coding, you can probably find me with a pair of headphones, lost in the world of melodies.
-  
+ 
   ## <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30" height="25">  Coding Journey  
 
 Coding is not just a job for me; it's a journey of continuous learning and growth.
@@ -31,9 +27,6 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 
   <a href="https://www.instagram.com/melihdrgn/" alt="melihdurgun">
   <img src="https://img.shields.io/badge/-Instagram-orange?style=flat-square&labelColor=orange&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-<a href="https://discordapp.com/users/776749637826117640" alt="#4063">
-  <img src="https://img.shields.io/badge/-Discord-black?style=flat-square&labelColor=black&logo=discord&logoColor=white&link=LINK-DO-SEU-DISCORD"/>
-  </a>
 </p>  
 
 <h3> <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/eee61d21-1298-4d42-adce-96fe2f88217b" width="25" height="25">  Tech Stack: </h3>
