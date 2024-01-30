@@ -38,12 +38,8 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 <img src="https://img.shields.io/badge/bootstrap-%23ff007f.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
 <img src="https://img.shields.io/badge/jQuery-aa56ff?style=for-the-badge&logo=jquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-e20000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-e87f7f?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Swagger-%237fe880?style=for-the-badge&amp;logo=swagger&amp;logoColor=white" alt="Swagger">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman"> 
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
 </div>
  <br/>
